@@ -1,1 +1,1 @@
-# al-st-rma
+# alıstırma
